@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">HIITApp</string>
+    <string name="burpees">Burpees</string>
+    <string name="high_knees">High Knees</string>
+    <string name="mountain_climbers">Mountain Climbers</string>
+    <string name="pushups">Push-Ups</string>
+    <string name="bicycle_crunch">Bicycle Crunch</string>
+    <string name="planks">Planks</string>
+    <string name="squats">Squats</string>
+    <string name="donkey_kick">Donkey Kicks</string>
+    <string name="leg_lifts">Leg Lifts</string>
+    <string name="fire_hydrant">Fire Hydrants</string>
+    <string name="title_activity_hiitexercises">HIITExercises</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_fragment">HOME</string>
+    <string name="timer_fragment">TIMER</string>
+    <string name="progress_fragment">PROGRESS</string>
+    <string name="large_text">LARGE TEXT</string>
+    <string name="home">Home</string>
+    <string name="progress">Progress</string>
+    <string name="timer">Timer</string>
+    <string name="pick_time">Pick a Time</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="set">Set</string>
+
+    <string-array name="exercises">
+        <item>Burpees</item>
+        <item>High Knees</item>
+        <item>Mountain Climbers</item>
+        <item>Push-Ups</item>
+        <item>Bicycle Crunch</item>
+        <item>Planks</item>
+        <item>Squats</item>
+        <item>Donkey Kicks</item>
+        <item>Back Leg Lifts</item>
+        <item>Fire Hydrant</item>
+    </string-array>
+
+    <string name="burpees_desc">1. Stand straight with your feet shoulder-width apart.\n
+2. Squat and place your hands in front of your feet.\n
+3. Jump back until your legs are fully extended and your body is in plank position.\n
+4. Do a push up, jump forward, and then push through the heels to return to the starting position.\n
+5. Repeat until the set is complete.</string>
+
+    <string name="high_knees_desc">1. Stand straight with your feet shoulder-width apart. Face forward and open your chest.\n
+2. Bring your knees up to waist level and then slowly land on the balls of your feet.\n
+3. Repeat until the set is complete.</string>
+
+    <string name="mountain_climbers_desc">1. Start with your body in a straight line and your hands slightly wider than shoulder-width apart. Keep your toes and balls of the feet touching the floor.\n
+2. Bring one knee up toward the center of your stomach and then quickly alternate between legs.\n
+3. Continue alternating until the set is complete.</string>
+
+    <string name="pushups_desc">1. With your legs extended back, place the hands below the shoulders, slightly wider than shoulder-width apart.\n
+2. Start bending your elbows and lower your chest until it’s just above the floor.\n
+3. Push back to the starting position. A 1-second push, 1-second pause, 2-second down count is ideal.\n
+4. Repeat.</string>
+
+    <string name="bicycle_crunch_desc">1. Lie on your back, lift your shoulders off the mat and raise both legs.\n
+2. Bring one knee and the opposing elbow close to each other by crunching to one side, and fully extend the other leg.\n
+3. Return to the starting position and then crunch to the opposite side.\n
+4. Repeat until the set is complete.</string>
+
+    <string name="planks_desc">1. Get into a push up position, with your elbows under your shoulders and your feet hip-width apart.\n
+2. Bend your elbows and rest your weight on your forearms and on your toes, keeping your body in a straight line.\n
+3. Hold for as long as possible.</string>
+
+    <string name="squats_desc">1. Stand up with your feet shoulder-width apart.\n
+2. Bend your knees, press your hips back and stop the movement once the hip joint is slightly lower than the knees.\n
+3. Press your heels into the floor to return to the initial position.\n
+4. Repeat until set is complete.</string>
+
+    <string name="donkey_kick_desc">1. Get down on all fours and position your hands under your shoulders and your knees under your hips.\n
+2. Kick back with one leg and squeeze the glutes.\n
+3. Bend the knee, lower the leg, and repeat.\n
+4. Switch legs.</string>
+
+    <string name="leg_lift_desc">1. Start on all fours with the hands under the shoulders and the knees under the hips.\n
+2. Extend one leg behind you.\n
+3. Lift the leg to hip level and then slowly lower it back down.\n
+4. Repeat with the opposite leg until the set is complete.</string>
+
+    <string name="fire_hydrant_desc">1. Get down on your hands and knees, with your wrists under your shoulders and your knees hip-width apart.\n
+2. Keeping the knee bent, raise one leg up and out to the side, until it’s level with your hip.\n
+3. Return to the starting position, repeat, and then switch legs.</string>
+
+</resources>
